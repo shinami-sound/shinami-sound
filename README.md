@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Andrey.  
+<!-- I'm Andrey.  -->
 Custom scripts, Kontakt instruments, custom keyboards, music and sound design.
 
 - Python
