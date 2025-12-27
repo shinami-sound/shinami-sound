@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Andrey.
+Custom scripts, Kontakt instruments, custom keyboards, music and sound design.
+
+- Python
+- C++
+- LUA
+- KSP
+
 <!--
 **shinami-sound/shinami-sound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
